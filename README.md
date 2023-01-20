@@ -22,3 +22,6 @@ Linguagem: C#
 Ferramentas: GitLab, Git, Redmine, DBGdiagram, Discord, Unity e VScode.
 
 Ao fazer o clone do projeto você encontrará um arquivo .zip (Documentação) onde encontrará toda a documentação que foi feita para esse projeto, contando com diagramas, imagens do jogo, objetivos, requisitos e todos os que foram solicitados pela faculdade durante a produção do projeto.
+ 
+# A documentação também está disponivél no link abaixo:
+ https://drive.google.com/drive/folders/141VD0R7xrLYyRs_bnub0rBMMC-bPi9ay?usp=sharing
