@@ -1,0 +1,74 @@
+{
+  "player": {
+    "id": "5c6c666b-6612-4c33-900f-a107377cbe6e",
+    "name": "Jogador",
+    "coins": 0,
+    "level": 1,
+    "experience": 0,
+    "last_scene": "MathCity",
+    "last_position": {
+      "x": -3,
+      "y": -5
+    },
+    "disciplines": [
+      {
+        "id": "8fa5849b-fb8f-4467-a9ba-1dd127993528",
+        "name": "Matemática",
+        "slug": "MAT",
+        "level": 1,
+        "experience": 0,
+        "missions": [
+          {
+            "id": "a8116ba1-98f0-46d6-82e8-b941eb9106e3",
+            "name": "Investigação das centenas",
+            "description": "Investigar e encontrar os numeros das centenas que estão espalhados pela cidade.",
+            "active": true,
+            "is_complete": false,
+            "reward": {
+              "experience": 10,
+              "coins": 75,
+              "item": {
+                "id": "f7919b45-d4c6-4316-872b-ce6332434d1a",
+                "name": "Mapa Matemática",
+                "description": "Este mapa ajuda a localizar todas as áreas da cidade Centenária do Leste."
+              }
+            },
+            "challenges": [
+              {
+                "id": "a20b522e-09b4-4e04-b6eb-7a981ce518c1",
+                "statement": "Qual a cor da casa que esconde uma centena?",
+                "tip": {
+                  "active": true,
+                  "value": "A casa está na rua da farmácia."
+                },
+                "active": true,
+                "is_complete": false,
+                "attempts": 1,
+                "options": [
+                  {
+                    "id": "5cc6beb6-ab7b-4dd2-b7af-f24a71b712a3",
+                    "key": "a",
+                    "value": "Vermelha",
+                    "correct": true
+                  },
+                  {
+                    "id": "91baf969-9fa1-4c48-a790-043e913755b6",
+                    "key": "b",
+                    "value": "Azul",
+                    "correct": false
+                  },
+                  {
+                    "id": "f21e573d-7415-49ed-8ff4-a4b1cf4beee0",
+                    "key": "c",
+                    "value": "Rosa",
+                    "correct": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
