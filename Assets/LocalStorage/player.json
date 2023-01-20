@@ -1,0 +1,68 @@
+{
+    "entity": {
+        "playerId": "5c6c666b-6612-4c33-900f-a107377cbe6e",
+        "playerName": "ChuckNorris",
+        "coins": 425,
+        "levelSystem": {
+            "level": 0,
+            "experience": 31
+        },
+        "mathLevelSystem": {
+            "level": 0,
+            "experience": 15
+        },
+        "historyLevelSystem": {
+            "level": 0,
+            "experience": 0
+        },
+        "inventory": {
+            "items": [
+                {
+                    "itemId": "d0325f24-2fa7-45a5-bf72-c4e705e4cc81",
+                    "itemName": "Espada",
+                    "sprite": {
+                        "instanceID": 18656
+                    }
+                },
+                {
+                    "itemId": "d0325f24-2fa7-45a5-bf72-c4e705e4cc81",
+                    "itemName": "Espada",
+                    "sprite": {
+                        "instanceID": 18656
+                    }
+                },
+                {
+                    "itemId": "d0325f24-2fa7-45a5-bf72-c4e705e4cc81",
+                    "itemName": "Espada",
+                    "sprite": {
+                        "instanceID": 18656
+                    }
+                }
+            ]
+        },
+        "questLog": {
+            "activeMissionList": [
+                {
+                    "missionId": "b71ae5ad-8234-441b-8d19-ed13fd8894b0",
+                    "missionName": "Invertigar centenas",
+                    "description": "Investigar todos os mistérios sobre as centenas na cidade.",
+                    "activeChallenge": {
+                        "challengeId": "c9a56887-2616-4a41-baf9-d5b57d9bd933",
+                        "challengeName": "Descobrir cor do carro",
+                        "description": "Precisamos descobrir qual a cor do carro de corrida que o numero da placa é uma centena."
+                    }
+                },
+                {
+                    "missionId": "8e1edffa-a6e8-44d9-8809-490a4d956068",
+                    "missionName": "Invertigar sobre cidades",
+                    "description": "Descobrir todos os detalhes sobre as cidades.",
+                    "activeChallenge": {
+                        "challengeId": "b714a28b-f4bb-4b27-ac8d-352354cfb728",
+                        "challengeName": "Descobrir...",
+                        "description": "Precisamos descobrir qual..."
+                    }
+                }
+            ]
+        }
+    }
+}

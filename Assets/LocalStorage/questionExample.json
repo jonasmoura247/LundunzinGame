@@ -1,0 +1,26 @@
+{
+  "questionId": "",
+  "statement": "",
+  "optionList": [
+    {
+      "optionId": "",
+      "value": "",
+      "isCorrect": false
+    },
+    {
+      "optionId": "",
+      "value": "",
+      "isCorrect": false
+    },
+    {
+      "optionId": "",
+      "value": "",
+      "isCorrect": true
+    },
+    {
+      "optionId": "",
+      "value": "",
+      "isCorrect": false
+    }
+  ]
+}
